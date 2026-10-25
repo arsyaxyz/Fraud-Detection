@@ -1,0 +1,12 @@
+{
+    "model": "Random Forest",
+    "threshold": 0.32,
+    "precision_fraud": 0.9285714285714286,
+    "recall_fraud": 0.7323943661971831,
+    "f1_fraud": 0.8188976377952756,
+    "pr_auc_average_precision": 0.811096636111062,
+    "true_positive": 52,
+    "false_positive": 4,
+    "true_negative": 42484,
+    "false_negative": 19
+}
