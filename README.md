@@ -48,7 +48,7 @@ Kaggle and follow the notebook's data-loading instructions.
 
 ## Project Files
 
-- `- `fraud_detection.ipynb`: main analysis notebook
+- `fraud_detection.ipynb`: main analysis notebook
 - `business_insights.md`: business findings and limitations
 - `final_metrics.json`: final test metrics
 - `classification_report.csv`: classification metrics
